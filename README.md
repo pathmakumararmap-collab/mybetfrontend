@@ -170,5 +170,3 @@ groups 2–3 hide on narrow columns and rows stack on phones.
 - Real artwork and the SVG logo from the design system.
 
 Icons: Font Awesome Free by Fonticons, Inc. (icons CC BY 4.0).
-#   m y b e t f r o n t e n d  
- 
